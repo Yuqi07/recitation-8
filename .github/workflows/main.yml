@@ -32,4 +32,4 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Run black formatter
-      uses: rickstaa/action-black@v1.1.14
+        uses: rickstaa/action-black@v1.1.14
